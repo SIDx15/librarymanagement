@@ -1,0 +1,81 @@
+.navbar {
+    background-color: #13274F;
+    title: white;
+    height: 100px;
+    margin-bottom: 0;
+    
+}
+.btn-danger{
+    margin-right: 50px;
+}
+.right-div{
+    margin-top: 35px;
+}
+#menu-top{
+    margin-right: 30px;
+}
+.navbar-brand{
+    display: flex;
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 55px;
+    margin-right: 20px;
+}
+
+.menu-section
+{
+    background-color: #13274F;
+    
+}
+
+.collapse
+{
+    background-color:#13274F;
+}
+a {
+    color: hotpink;
+  }
+
+  .collapse
+  {
+      background-color:#13274F;
+      width: auto;
+  }
+  a {
+      color: #00BFFF;
+    }
+
+    .content-wrapper{
+        
+        background:url('back2.jpg') ;
+        background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+    .header-line{
+       height: 50px;
+       font-size: 30px;
+       margin-top: 20px;
+       color: #192a56;
+       font-weight: bold;
+      }
+
+.panel
+{
+    width: 1000px;
+    margin-left: 100px;
+}
+
+.op{
+    
+    display: flex;
+    justify-content:space-between;
+}
